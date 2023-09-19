@@ -1,3 +1,7 @@
+# CS550 Assignment 1
+# Team: Batkhishig Dulamsurankhor, Nitin Singh, Vaishnavi Papudesi Babu
+
+# Pre-req
 # install ping
 # apt-get install iputils-ping
 
