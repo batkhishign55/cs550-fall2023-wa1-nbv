@@ -4,6 +4,6 @@
 
 **Team Name**: NBV  
 **Students**: 
-* Batkhishig Dulamsurankhor (<pending>)   
+* Batkhishig Dulamsurankhor (bdulamsurankhor@hawk.iit.edu)   
 * Nithin Singh (<pending>)  
 * Vaishnavi Papudesi Babu (vpapudesibabu@hawk.iit.edu)   
