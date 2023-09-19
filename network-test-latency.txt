@@ -1,0 +1,10 @@
+google.com 14.167
+iit.edu 26.052
+ubuntu.com 174.523
+stackoverflow.com 4.204
+kaggle.com 14.574
+youtube.com 5.212
+edx.org 5.351
+coursera.org 4.807
+udemy.com 14.727
+udacity.com 5.109
